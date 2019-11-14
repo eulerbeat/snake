@@ -1,3 +1,3 @@
 # Snake
 
-Sname mini game in Javascript
+Snake mini game in Javascript
